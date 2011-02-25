@@ -1,0 +1,13 @@
+# README 
+
+A quick'n'dirty Feeder of currency rates from nbp.pl portal.
+
+## Quick HOWTO
+
+1. Checkout from git://github.com/grzegorzblaszczyk/NBP-Currency-Rates-Feeder.git
+2. Run ```gem install pg sqlite3```
+3. Run ```./nbp_rates_feeder.rb```
+
+You can modify a database type (PostgreSQL / SQLite) in a script header.
+
+
