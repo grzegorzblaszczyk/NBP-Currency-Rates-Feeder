@@ -4,7 +4,7 @@ A quick'n'dirty Feeder of currency rates from nbp.pl portal.
 
 ## Quick HOWTO
 
-1. Checkout ```git glone https://github.com/grzegorzblaszczyk/NBP-Currency-Rates-Feeder.git```
+1. Checkout ```git clone https://github.com/grzegorzblaszczyk/NBP-Currency-Rates-Feeder.git && cd NBP-Currency-Rates-Feeder```
 2. Run ```bundle```
 3. Run ```./nbp_rates_feeder.rb```
 
