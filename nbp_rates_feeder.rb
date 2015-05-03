@@ -9,7 +9,7 @@ DbHost = '127.0.0.1'
 DbPort = 5432
 DbUser = 'currency_rates'
 DbPass = 'currency_rates'
-DbType = 'pg'
+DbType = 'sqlite'
 
 ### DO NOT EDIT BELOW THIS LINE ###
 
